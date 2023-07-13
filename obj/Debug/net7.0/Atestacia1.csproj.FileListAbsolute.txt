@@ -1,0 +1,15 @@
+C:\Users\Victus\Desktop\Atestacai1\Atestacia1\bin\Debug\net7.0\Atestacia1.exe
+C:\Users\Victus\Desktop\Atestacai1\Atestacia1\bin\Debug\net7.0\Atestacia1.deps.json
+C:\Users\Victus\Desktop\Atestacai1\Atestacia1\bin\Debug\net7.0\Atestacia1.runtimeconfig.json
+C:\Users\Victus\Desktop\Atestacai1\Atestacia1\bin\Debug\net7.0\Atestacia1.dll
+C:\Users\Victus\Desktop\Atestacai1\Atestacia1\bin\Debug\net7.0\Atestacia1.pdb
+C:\Users\Victus\Desktop\Atestacai1\Atestacia1\obj\Debug\net7.0\Atestacia1.csproj.AssemblyReference.cache
+C:\Users\Victus\Desktop\Atestacai1\Atestacia1\obj\Debug\net7.0\Atestacia1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victus\Desktop\Atestacai1\Atestacia1\obj\Debug\net7.0\Atestacia1.AssemblyInfoInputs.cache
+C:\Users\Victus\Desktop\Atestacai1\Atestacia1\obj\Debug\net7.0\Atestacia1.AssemblyInfo.cs
+C:\Users\Victus\Desktop\Atestacai1\Atestacia1\obj\Debug\net7.0\Atestacia1.csproj.CoreCompileInputs.cache
+C:\Users\Victus\Desktop\Atestacai1\Atestacia1\obj\Debug\net7.0\Atestacia1.dll
+C:\Users\Victus\Desktop\Atestacai1\Atestacia1\obj\Debug\net7.0\refint\Atestacia1.dll
+C:\Users\Victus\Desktop\Atestacai1\Atestacia1\obj\Debug\net7.0\Atestacia1.pdb
+C:\Users\Victus\Desktop\Atestacai1\Atestacia1\obj\Debug\net7.0\Atestacia1.genruntimeconfig.cache
+C:\Users\Victus\Desktop\Atestacai1\Atestacia1\obj\Debug\net7.0\ref\Atestacia1.dll
